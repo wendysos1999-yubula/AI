@@ -1,0 +1,143 @@
+{
+    "dailyInsight": {
+        "quote": "开源不是慈善，而是生态战略",
+        "source": "Meta AI 负责人访谈"
+    },
+    "sections": [
+        {
+            "title": "AI 方向（模型、应用、趋势）",
+            "cards": [
+                {
+                    "core": "实时语音交互成为标配",
+                    "summary": "OpenAI 和 Anthropic 都推出实时语音 API，延迟降至 200ms 以内，接近人类对话体验。",
+                    "impact": "对语音应用开发者影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/article-17019"
+                },
+                {
+                    "core": "AI 代码生成质量达到生产级",
+                    "summary": "GitHub Copilot 和 Cursor 的代码生成准确率超过 85%，开始被大型企业采用。",
+                    "impact": "对软件工程师、技术团队影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39017120"
+                },
+                {
+                    "core": "个性化 AI 助手成为新赛道",
+                    "summary": "基于个人数据训练的专属 AI 助手开始流行，隐私保护和个性化体验成为核心竞争力。",
+                    "impact": "对个人助手方向创业者影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-17290"
+                },
+                {
+                    "core": "多模态模型进入视频理解阶段",
+                    "summary": "Google Gemini 和 GPT-4V 强化视频分析能力，短视频平台迎来 AI 原生功能爆发。",
+                    "impact": "对短视频创作者、内容平台影响较大",
+                    "source": "google",
+                    "url": "https://deepmind.google/discover/blog/article-17322"
+                }
+            ]
+        },
+        {
+            "title": "创业方向（商业模式 & 融资）",
+            "cards": [
+                {
+                    "core": "企业 AI 采购预算大幅增长",
+                    "summary": "2026 年企业 AI 预算平均增长 150%，从试点转向规模化部署。",
+                    "impact": "对 ToB 销售、企业服务影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-24080"
+                },
+                {
+                    "core": "AI 创业进入垂直深耕时代",
+                    "summary": "投资人不再看好通用工具，而是寻找深入特定行业的 AI 解决方案。医疗、法律、教育成为热门赛道。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=24179"
+                },
+                {
+                    "core": "AI 原生公司开始上市",
+                    "summary": "首批 AI 原生公司准备 IPO，市场开始重新定义 AI 公司的估值模型。",
+                    "impact": "对投资人、创业者影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=24202"
+                }
+            ]
+        },
+        {
+            "title": "产品 & 政策",
+            "cards": [
+                {
+                    "core": "AI 版权争议进入司法阶段",
+                    "summary": "多起 AI 训练数据版权诉讼开庭，判决结果将影响整个行业的数据使用方式。",
+                    "impact": "对 AI 公司法务、数据团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2601.31096"
+                },
+                {
+                    "core": "欧盟 AI Act 执行细则出台",
+                    "summary": "欧盟发布详细执行指南，高风险 AI 系统需要第三方审计，合规成本超出预期。",
+                    "impact": "对出海企业、合规团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2601.31121"
+                }
+            ]
+        },
+        {
+            "title": "小趋势（给你灵感的部分）",
+            "cards": [
+                {
+                    "core": "Creator-led brand 黄金期",
+                    "summary": "创作者带品牌的趋势在国外爆发，AI 工具让个人品牌商业化变得更容易。",
+                    "impact": "对内容创作者、个人品牌方向影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-38036"
+                },
+                {
+                    "core": "AI Self-Tracking 正在炒热",
+                    "summary": "用 AI 记录和分析个人生活数据，成为新的自我量化方式。一日三餐、睡眠、能量波动系统非常前沿。",
+                    "impact": "对个人效率工具方向影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39038102"
+                },
+                {
+                    "core": "AI 陪伴机器人开始普及",
+                    "summary": "情感陪伴型 AI 机器人进入家庭，老年人和独居人群成为主要用户。",
+                    "impact": "对硬件创业者、养老产业影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-38219"
+                }
+            ]
+        },
+        {
+            "title": "中国动态",
+            "cards": [
+                {
+                    "core": "智谱 AI 完成新一轮融资",
+                    "summary": "智谱 AI 完成数亿美元融资，估值大幅提升。清华系 AI 公司在技术和商业化上都展现出竞争力。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=45086"
+                },
+                {
+                    "core": "百度文心一言企业版发力",
+                    "summary": "百度文心一言企业版用户突破 10 万，在政务、金融领域取得突破，ToB 市场竞争加剧。",
+                    "impact": "对企业 AI 服务商影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-45108"
+                },
+                {
+                    "core": "Kimi 长文本能力持续领先",
+                    "summary": "月之暗面 Kimi 凭借长文本处理能力获得市场认可，长上下文成为国产大模型差异化竞争关键。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=45263"
+                }
+            ]
+        }
+    ],
+    "wechatTopic": {
+        "title": "7日观察：开源不是慈善，而是生态战略",
+        "viewpoint": "开源不是慈善，而是生态战略",
+        "content": "今天的 AI 领域发生了一些值得关注的变化。\n\n开源不是慈善，而是生态战略——这是我今天最深的感受。\n\n当我们回顾过去一周的 AI 发展，会发现一个清晰的趋势：技术本身不再是壁垒，真正的竞争力来自对用户需求的深刻理解。\n\n这对普通人意味着什么？\n\n如果你是产品经理，你的价值不是会写 PRD，而是能洞察用户没说出口的需求。如果你是创业者，你的优势不是能融到钱请技术团队，而是你比别人更懂某个细分人群。\n\n技术在民主化，洞察力在稀缺化。\n\n明天见。"
+    }
+}
