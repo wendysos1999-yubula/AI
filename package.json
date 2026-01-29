@@ -1,0 +1,12 @@
+{
+  "name": "ai-intelligence-hub",
+  "version": "1.0.0",
+  "description": "AI 情报站 - 每日高密度观点卡片",
+  "scripts": {
+    "generate": "node scripts/generate-daily-content.js",
+    "update-data": "node scripts/update-data-js.js",
+    "daily-update": "npm run generate && npm run update-data"
+  },
+  "author": "",
+  "license": "MIT"
+}

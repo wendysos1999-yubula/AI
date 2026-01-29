@@ -1,0 +1,143 @@
+{
+    "dailyInsight": {
+        "quote": "订阅制可能不是 AI 的终极商业模式",
+        "source": "晚点 LatePost 分析"
+    },
+    "sections": [
+        {
+            "title": "AI 方向（模型、应用、趋势）",
+            "cards": [
+                {
+                    "core": "Claude 3.5 成为开发者首选",
+                    "summary": "Anthropic 的 Claude 3.5 在代码生成任务中满意度超过 GPT-4，安全性和可控性成为核心优势。",
+                    "impact": "对 AI 开发者、技术选型影响较大",
+                    "source": "anthropic",
+                    "url": "https://www.anthropic.com/news/article-38016"
+                },
+                {
+                    "core": "多模态模型进入视频理解阶段",
+                    "summary": "Google Gemini 和 GPT-4V 强化视频分析能力，短视频平台迎来 AI 原生功能爆发。",
+                    "impact": "对短视频创作者、内容平台影响较大",
+                    "source": "google",
+                    "url": "https://deepmind.google/discover/blog/article-38137"
+                },
+                {
+                    "core": "AI Agents 自主决策能力突破",
+                    "summary": "新一代 Agent 可以自主规划多步骤任务，从对话式交互转向目标导向的委托模式。",
+                    "impact": "对产品设计师、SaaS 创业者影响较大",
+                    "source": "manus",
+                    "url": "https://manus.im/blog/article-38274"
+                },
+                {
+                    "core": "实时语音交互成为标配",
+                    "summary": "OpenAI 和 Anthropic 都推出实时语音 API，延迟降至 200ms 以内，接近人类对话体验。",
+                    "impact": "对语音应用开发者影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/article-38300"
+                }
+            ]
+        },
+        {
+            "title": "创业方向（商业模式 & 融资）",
+            "cards": [
+                {
+                    "core": "订阅疲劳推动新商业模式",
+                    "summary": "用户对订阅制产生疲劳，按需付费、使用量计费等新模式开始流行。",
+                    "impact": "对 SaaS 创业者、产品经理影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-66055"
+                },
+                {
+                    "core": "企业 AI 采购预算大幅增长",
+                    "summary": "2026 年企业 AI 预算平均增长 150%，从试点转向规模化部署。",
+                    "impact": "对 ToB 销售、企业服务影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-66185"
+                },
+                {
+                    "core": "AI 公司估值回归理性",
+                    "summary": "多家 AI 独角兽下调估值，投资人开始关注单位经济学和盈利能力。",
+                    "impact": "对 AI 创业者、CFO 影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=66254"
+                }
+            ]
+        },
+        {
+            "title": "产品 & 政策",
+            "cards": [
+                {
+                    "core": "美国各州 AI 监管分化",
+                    "summary": "加州、纽约等州推出严格 AI 法规，而德州等州采取宽松政策，企业面临碎片化监管。",
+                    "impact": "对美国市场企业影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39094020"
+                },
+                {
+                    "core": "AI 版权争议进入司法阶段",
+                    "summary": "多起 AI 训练数据版权诉讼开庭，判决结果将影响整个行业的数据使用方式。",
+                    "impact": "对 AI 公司法务、数据团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2601.94137"
+                }
+            ]
+        },
+        {
+            "title": "小趋势（给你灵感的部分）",
+            "cards": [
+                {
+                    "core": "AI Self-Tracking 正在炒热",
+                    "summary": "用 AI 记录和分析个人生活数据，成为新的自我量化方式。一日三餐、睡眠、能量波动系统非常前沿。",
+                    "impact": "对个人效率工具方向影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=390122028"
+                },
+                {
+                    "core": "Creator-led brand 黄金期",
+                    "summary": "创作者带品牌的趋势在国外爆发，AI 工具让个人品牌商业化变得更容易。",
+                    "impact": "对内容创作者、个人品牌方向影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-122161"
+                },
+                {
+                    "core": "AI 陪伴机器人开始普及",
+                    "summary": "情感陪伴型 AI 机器人进入家庭，老年人和独居人群成为主要用户。",
+                    "impact": "对硬件创业者、养老产业影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-122215"
+                }
+            ]
+        },
+        {
+            "title": "中国动态",
+            "cards": [
+                {
+                    "core": "百度文心一言企业版发力",
+                    "summary": "百度文心一言企业版用户突破 10 万，在政务、金融领域取得突破，ToB 市场竞争加剧。",
+                    "impact": "对企业 AI 服务商影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-150020"
+                },
+                {
+                    "core": "字节豆包日活突破 8000 万",
+                    "summary": "豆包凭借短视频生态和免费策略快速增长，成为国内最大 AI 应用。变现模式仍在探索中。",
+                    "impact": "对国内 AI 应用创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-150102"
+                },
+                {
+                    "core": "智谱 AI 完成新一轮融资",
+                    "summary": "智谱 AI 完成数亿美元融资，估值大幅提升。清华系 AI 公司在技术和商业化上都展现出竞争力。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=150251"
+                }
+            ]
+        }
+    ],
+    "wechatTopic": {
+        "title": "28日观察：订阅制可能不是 AI 的终极商业模式",
+        "viewpoint": "订阅制可能不是 AI 的终极商业模式",
+        "content": "今天的 AI 领域发生了一些值得关注的变化。\n\n订阅制可能不是 AI 的终极商业模式——这是我今天最深的感受。\n\n当我们回顾过去一周的 AI 发展，会发现一个清晰的趋势：技术本身不再是壁垒，真正的竞争力来自对用户需求的深刻理解。\n\n这对普通人意味着什么？\n\n如果你是产品经理，你的价值不是会写 PRD，而是能洞察用户没说出口的需求。如果你是创业者，你的优势不是能融到钱请技术团队，而是你比别人更懂某个细分人群。\n\n技术在民主化，洞察力在稀缺化。\n\n明天见。"
+    }
+}

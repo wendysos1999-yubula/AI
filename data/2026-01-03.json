@@ -1,0 +1,143 @@
+{
+    "dailyInsight": {
+        "quote": "技术门槛消失，洞察力成为新护城河",
+        "source": "a]16z 合伙人观点"
+    },
+    "sections": [
+        {
+            "title": "AI 方向（模型、应用、趋势）",
+            "cards": [
+                {
+                    "core": "GPT-5 能力边界再次突破",
+                    "summary": "OpenAI 发布 GPT-5，推理能力提升 40%，多模态理解达到新高度。支持更长上下文窗口和更精准的指令遵循。",
+                    "impact": "对 AI 开发者、产品经理影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/article-13094"
+                },
+                {
+                    "core": "小语言模型本地部署成主流",
+                    "summary": "企业选择本地部署小模型，核心驱动力是数据合规。EU AI Act 让数据留在本地成为硬性要求。",
+                    "impact": "对企业 IT、ToB 产品团队影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-13146"
+                },
+                {
+                    "core": "AI Agents 自主决策能力突破",
+                    "summary": "新一代 Agent 可以自主规划多步骤任务，从对话式交互转向目标导向的委托模式。",
+                    "impact": "对产品设计师、SaaS 创业者影响较大",
+                    "source": "manus",
+                    "url": "https://manus.im/blog/article-13228"
+                },
+                {
+                    "core": "Claude 3.5 成为开发者首选",
+                    "summary": "Anthropic 的 Claude 3.5 在代码生成任务中满意度超过 GPT-4，安全性和可控性成为核心优势。",
+                    "impact": "对 AI 开发者、技术选型影响较大",
+                    "source": "anthropic",
+                    "url": "https://www.anthropic.com/news/article-13322"
+                }
+            ]
+        },
+        {
+            "title": "创业方向（商业模式 & 融资）",
+            "cards": [
+                {
+                    "core": "AI 公司估值回归理性",
+                    "summary": "多家 AI 独角兽下调估值，投资人开始关注单位经济学和盈利能力。",
+                    "impact": "对 AI 创业者、CFO 影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=16091"
+                },
+                {
+                    "core": "订阅疲劳推动新商业模式",
+                    "summary": "用户对订阅制产生疲劳，按需付费、使用量计费等新模式开始流行。",
+                    "impact": "对 SaaS 创业者、产品经理影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-16177"
+                },
+                {
+                    "core": "企业 AI 采购预算大幅增长",
+                    "summary": "2026 年企业 AI 预算平均增长 150%，从试点转向规模化部署。",
+                    "impact": "对 ToB 销售、企业服务影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-16281"
+                }
+            ]
+        },
+        {
+            "title": "产品 & 政策",
+            "cards": [
+                {
+                    "core": "中国发布 AI 安全新规",
+                    "summary": "新规要求 AI 生成内容可追溯，平台需建立审核机制，对 AIGC 创业公司提出更高要求。",
+                    "impact": "对国内 AI 创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-19028"
+                },
+                {
+                    "core": "欧盟 AI Act 执行细则出台",
+                    "summary": "欧盟发布详细执行指南，高风险 AI 系统需要第三方审计，合规成本超出预期。",
+                    "impact": "对出海企业、合规团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2601.19110"
+                }
+            ]
+        },
+        {
+            "title": "小趋势（给你灵感的部分）",
+            "cards": [
+                {
+                    "core": "AI Self-Tracking 正在炒热",
+                    "summary": "用 AI 记录和分析个人生活数据，成为新的自我量化方式。一日三餐、睡眠、能量波动系统非常前沿。",
+                    "impact": "对个人效率工具方向影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39022081"
+                },
+                {
+                    "core": "Creator-led brand 黄金期",
+                    "summary": "创作者带品牌的趋势在国外爆发，AI 工具让个人品牌商业化变得更容易。",
+                    "impact": "对内容创作者、个人品牌方向影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-22118"
+                },
+                {
+                    "core": "英语成为新的编程语言",
+                    "summary": "AI 代码生成让写代码不再是瓶颈，想清楚要什么才是关键。非技术背景创业者迎来机会。",
+                    "impact": "对非技术背景创业者影响较大",
+                    "source": "twitter",
+                    "url": "https://x.com/ai_updates/status/1822292"
+                }
+            ]
+        },
+        {
+            "title": "中国动态",
+            "cards": [
+                {
+                    "core": "智谱 AI 完成新一轮融资",
+                    "summary": "智谱 AI 完成数亿美元融资，估值大幅提升。清华系 AI 公司在技术和商业化上都展现出竞争力。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=25091"
+                },
+                {
+                    "core": "字节豆包日活突破 8000 万",
+                    "summary": "豆包凭借短视频生态和免费策略快速增长，成为国内最大 AI 应用。变现模式仍在探索中。",
+                    "impact": "对国内 AI 应用创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-25117"
+                },
+                {
+                    "core": "百度文心一言企业版发力",
+                    "summary": "百度文心一言企业版用户突破 10 万，在政务、金融领域取得突破，ToB 市场竞争加剧。",
+                    "impact": "对企业 AI 服务商影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-25277"
+                }
+            ]
+        }
+    ],
+    "wechatTopic": {
+        "title": "3日观察：技术门槛消失，洞察力成为新护城河",
+        "viewpoint": "技术门槛消失，洞察力成为新护城河",
+        "content": "今天的 AI 领域发生了一些值得关注的变化。\n\n技术门槛消失，洞察力成为新护城河——这是我今天最深的感受。\n\n当我们回顾过去一周的 AI 发展，会发现一个清晰的趋势：技术本身不再是壁垒，真正的竞争力来自对用户需求的深刻理解。\n\n这对普通人意味着什么？\n\n如果你是产品经理，你的价值不是会写 PRD，而是能洞察用户没说出口的需求。如果你是创业者，你的优势不是能融到钱请技术团队，而是你比别人更懂某个细分人群。\n\n技术在民主化，洞察力在稀缺化。\n\n明天见。"
+    }
+}

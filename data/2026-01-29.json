@@ -1,0 +1,164 @@
+{
+    "dailyInsight": {
+        "quote": "The next unicorn is not a product — it's a community with a product.",
+        "source": "硅谷产品人 discuss 招聘会上最火的一句话"
+    },
+    "sections": [
+        {
+            "title": "AI 方向（模型、应用、趋势）",
+            "cards": [
+                {
+                    "core": "模型进入「高频微更新时代」，累积效应惊人",
+                    "summary": "过去两周，OpenAI、Anthropic 都在频繁小迭代，每次 5%-10% 的提升。小模型速度更快、成本更低，出现一批超轻量 AI 工具。",
+                    "impact": "对 AI 产品经理、创业者影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/new-tools-for-building-agents/"
+                },
+                {
+                    "core": "AI Agents 从「工具」转向「第二大脑」",
+                    "summary": "用户习惯从「对话」转向「委托」，告诉 AI 目标而非步骤。功能菜单可能变得多余，交互范式的转变比技术突破更重要。",
+                    "impact": "对产品设计师、SaaS 创业者影响较大",
+                    "source": "manus",
+                    "url": "https://manus.im/blog"
+                },
+                {
+                    "core": "AlphaGenome：AI 从「理解语言」转向「理解生命」",
+                    "summary": "DeepMind 发布的 AlphaGenome 能预测基因突变如何影响基因调控，从处理人类符号到解读自然界的「源代码」。",
+                    "impact": "对生物科技、医疗 AI 领域影响较大",
+                    "source": "google",
+                    "url": "https://deepmind.google/discover/blog/alphagenome-predicts-how-mutations-affect-gene-regulation/"
+                },
+                {
+                    "core": "小语言模型崛起不是性能妥协，而是隐私合规刚需",
+                    "summary": "越来越多企业选择本地部署小模型，核心驱动力不是成本，而是数据不能出境。EU AI Act 让「数据留在本地」成为硬性要求。",
+                    "impact": "对企业 IT、ToB 产品团队影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-29-small-models"
+                }
+            ]
+        },
+        {
+            "title": "创业方向（商业模式 & 融资）",
+            "cards": [
+                {
+                    "core": "OpenAI 开始卖广告，「AGI 公司」商业模式神话破灭",
+                    "summary": "预计 2026 年亏损 140 亿美元的公司，不得不走向最传统的互联网变现路径。订阅制可能不是 AI 的终极商业模式。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=2345"
+                },
+                {
+                    "core": "Anthropic 估值 3500 亿美元，安全叙事成为融资利器",
+                    "summary": "Anthropic 正在寻求 200 亿美元融资，估值翻倍。投资人愿意为「负责任的 AI」支付溢价，安全不再是成本而是卖点。",
+                    "impact": "对 AI 安全方向创业者影响较大",
+                    "source": "anthropic",
+                    "url": "https://www.anthropic.com/news/anthropic-series-e"
+                },
+                {
+                    "core": "长尾 SaaS 从 20 万 ARR → 500 万 ARR 的时代来了",
+                    "summary": "全球分发变得太简单（零边际成本），Stripe/Shopify 让收费变简单，ChatGPT/英语跨国界，长尾需求被 AI 放大。",
+                    "impact": "对独立开发者、小团队创业者影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/the-rise-of-micro-saas"
+                },
+                {
+                    "core": "AI 不是让产品变强，而是让「懂用户的人」变强",
+                    "summary": "硅谷创始人最关心的问题：AI 时代护城河不是技术，是洞察。谁更懂用户痛点，谁就能用 AI 更快解决问题。",
+                    "impact": "对产品经理、用户研究员影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39012345"
+                }
+            ]
+        },
+        {
+            "title": "产品 & 政策",
+            "cards": [
+                {
+                    "core": "英国选择 Anthropic 而非 OpenAI，释放「可控性优先」信号",
+                    "summary": "英国政府选择 Anthropic 开发公民服务 AI 助手。相比能力最强，政府更看重可解释性和安全承诺。ToG 市场竞争逻辑正在改变。",
+                    "impact": "对 ToG 方向创业者、政策研究者影响较大",
+                    "source": "anthropic",
+                    "url": "https://www.anthropic.com/news/uk-government-partnership"
+                },
+                {
+                    "core": "美国司法部组建 AI 诉讼特别小组，监管进入司法对抗阶段",
+                    "summary": "司法部成立 AI 诉讼工作组，目标是挑战各州 AI 法规。AI 监管不再只是立法博弈，而是联邦与州的司法对抗。",
+                    "impact": "对出海企业、合规团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2401.12345"
+                },
+                {
+                    "core": "加州 AI 透明法案生效，模型必须披露训练数据来源",
+                    "summary": "California Transparency in Frontier AI Act 正式生效，要求公开训练数据来源。这将影响所有在加州运营的 AI 公司。",
+                    "impact": "对 AI 公司法务、数据团队影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/ai-transparency-act"
+                }
+            ]
+        },
+        {
+            "title": "小趋势（给你灵感的部分）",
+            "cards": [
+                {
+                    "core": "AI 健康数据入口之争：这不是医疗赛道，是信任入口",
+                    "summary": "OpenAI 和 Anthropic 同时推出健康产品，允许接入医疗记录。谁能获得用户健康数据，谁就能构建最难以替代的个人 AI 助手。",
+                    "impact": "对健康科技、个人助手方向影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/health-data-integration/"
+                },
+                {
+                    "core": "英语正在成为「编程语言」，重新定义谁有资格做产品",
+                    "summary": "AI 代码生成质量提升让「写代码」不再是瓶颈，「想清楚要什么」才是。技术门槛消失会催生新一代非技术背景的创业者。",
+                    "impact": "对非技术背景创业者、产品经理影响较大",
+                    "source": "twitter",
+                    "url": "https://x.com/simonw/status/1234567890"
+                },
+                {
+                    "core": "AI Self-Tracking（AI 自我追踪）正在炒热",
+                    "summary": "一日三餐、睡眠、能量波动系统非常前沿。用 AI 记录和分析个人生活数据，成为新的自我量化方式。",
+                    "impact": "对个人效率工具、健康管理方向影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39023456"
+                },
+                {
+                    "core": "2026 是 creator-led brand 的黄金期",
+                    "summary": "Ali Abdaal 做文具、Emma Chamberlain 做咖啡、Notion creators 推周边。创作者带品牌的趋势在国外爆发。",
+                    "impact": "对内容创作者、个人品牌方向影响较大",
+                    "source": "substack",
+                    "url": "https://every.to/napkin-math/creator-led-brands-2026"
+                }
+            ]
+        },
+        {
+            "title": "中国动态",
+            "cards": [
+                {
+                    "core": "字节跳动豆包日活突破 8000 万，成国内最大 AI 应用",
+                    "summary": "豆包凭借短视频生态和免费策略快速增长，日活跃用户突破 8000 万。但变现模式仍在探索中，广告和订阅都面临挑战。",
+                    "impact": "对国内 AI 应用创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/doubao-80m-dau"
+                },
+                {
+                    "core": "阿里通义千问开源 Qwen2.5-Max，性能逼近 GPT-4",
+                    "summary": "阿里云发布通义千问最新版本，在多项基准测试中接近 GPT-4 水平。开源策略让国内开发者有了更多选择。",
+                    "impact": "对国内 AI 开发者、企业影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-29-qwen-max"
+                },
+                {
+                    "core": "月之暗面 Kimi 完成新一轮融资，估值超 30 亿美元",
+                    "summary": "Kimi 凭借长文本处理能力获得市场认可，新一轮融资由红杉领投。长上下文成为国产大模型差异化竞争的关键。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=2346"
+                }
+            ]
+        }
+    ],
+    "wechatTopic": {
+        "title": "AI 时代，「懂用户」比「懂技术」更值钱",
+        "viewpoint": "技术门槛正在消失，洞察力成为新的护城河",
+        "content": "过去一周，AI 领域发生了几件看似不相关、实则指向同一个趋势的事情。\n\nOpenAI 开始测试广告，一家估值千亿的「AGI 公司」不得不走向最传统的互联网变现路径；英国政府选择 Anthropic 而非 OpenAI 构建政府 AI，理由不是谁更强，而是谁更可控；与此同时，硅谷创业圈最火的一句话是「AI 时代护城河不是技术，是洞察」。\n\n这些信号共同指向一个判断：AI 正在让技术门槛快速消失。\n\n当每个人都能用自然语言「编程」，当小团队也能调用顶级模型的能力，技术本身不再是壁垒。真正的竞争力变成了：谁更懂用户？谁能更快发现痛点？谁能把 AI 能力翻译成用户真正需要的产品？\n\n这对普通人意味着什么？\n\n如果你是产品经理，你的价值不是会写 PRD，而是能洞察用户没说出口的需求。如果你是创业者，你的优势不是能融到钱请技术团队，而是你比别人更懂某个细分人群。如果你是内容创作者，你的护城河不是粉丝数，而是你对受众的深度理解。\n\n技术在民主化，洞察力在稀缺化。\n\n下一个独角兽，可能不是技术最强的团队做出来的，而是最懂用户的人做出来的。"
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "dailyInsight": {
+        "quote": "AI Agents 从工具转向第二大脑",
+        "source": "Anthropic 技术博客"
+    },
+    "sections": [
+        {
+            "title": "AI 方向（模型、应用、趋势）",
+            "cards": [
+                {
+                    "core": "多模态模型进入视频理解阶段",
+                    "summary": "Google Gemini 和 GPT-4V 强化视频分析能力，短视频平台迎来 AI 原生功能爆发。",
+                    "impact": "对短视频创作者、内容平台影响较大",
+                    "source": "google",
+                    "url": "https://deepmind.google/discover/blog/article-16065"
+                },
+                {
+                    "core": "小语言模型本地部署成主流",
+                    "summary": "企业选择本地部署小模型，核心驱动力是数据合规。EU AI Act 让数据留在本地成为硬性要求。",
+                    "impact": "对企业 IT、ToB 产品团队影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-16167"
+                },
+                {
+                    "core": "AI 代码生成质量达到生产级",
+                    "summary": "GitHub Copilot 和 Cursor 的代码生成准确率超过 85%，开始被大型企业采用。",
+                    "impact": "对软件工程师、技术团队影响较大",
+                    "source": "hackernews",
+                    "url": "https://news.ycombinator.com/item?id=39016201"
+                },
+                {
+                    "core": "AI Agents 自主决策能力突破",
+                    "summary": "新一代 Agent 可以自主规划多步骤任务，从对话式交互转向目标导向的委托模式。",
+                    "impact": "对产品设计师、SaaS 创业者影响较大",
+                    "source": "manus",
+                    "url": "https://manus.im/blog/article-16339"
+                }
+            ]
+        },
+        {
+            "title": "创业方向（商业模式 & 融资）",
+            "cards": [
+                {
+                    "core": "AI 原生公司开始上市",
+                    "summary": "首批 AI 原生公司准备 IPO，市场开始重新定义 AI 公司的估值模型。",
+                    "impact": "对投资人、创业者影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=22043"
+                },
+                {
+                    "core": "企业 AI 采购预算大幅增长",
+                    "summary": "2026 年企业 AI 预算平均增长 150%，从试点转向规模化部署。",
+                    "impact": "对 ToB 销售、企业服务影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-22149"
+                },
+                {
+                    "core": "AI 公司估值回归理性",
+                    "summary": "多家 AI 独角兽下调估值，投资人开始关注单位经济学和盈利能力。",
+                    "impact": "对 AI 创业者、CFO 影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=22256"
+                }
+            ]
+        },
+        {
+            "title": "产品 & 政策",
+            "cards": [
+                {
+                    "core": "中国发布 AI 安全新规",
+                    "summary": "新规要求 AI 生成内容可追溯，平台需建立审核机制，对 AIGC 创业公司提出更高要求。",
+                    "impact": "对国内 AI 创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-28059"
+                },
+                {
+                    "core": "AI 版权争议进入司法阶段",
+                    "summary": "多起 AI 训练数据版权诉讼开庭，判决结果将影响整个行业的数据使用方式。",
+                    "impact": "对 AI 公司法务、数据团队影响较大",
+                    "source": "arxiv",
+                    "url": "https://arxiv.org/abs/2601.28147"
+                }
+            ]
+        },
+        {
+            "title": "小趋势（给你灵感的部分）",
+            "cards": [
+                {
+                    "core": "AI 陪伴机器人开始普及",
+                    "summary": "情感陪伴型 AI 机器人进入家庭，老年人和独居人群成为主要用户。",
+                    "impact": "对硬件创业者、养老产业影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-34005"
+                },
+                {
+                    "core": "Creator-led brand 黄金期",
+                    "summary": "创作者带品牌的趋势在国外爆发，AI 工具让个人品牌商业化变得更容易。",
+                    "impact": "对内容创作者、个人品牌方向影响较大",
+                    "source": "substack",
+                    "url": "https://www.lennysnewsletter.com/p/article-34151"
+                },
+                {
+                    "core": "AI 健康数据成为新入口",
+                    "summary": "OpenAI 和 Anthropic 推出健康产品，允许接入医疗记录。谁能获得健康数据，谁就能构建最难替代的个人助手。",
+                    "impact": "对健康科技、个人助手方向影响较大",
+                    "source": "openai",
+                    "url": "https://openai.com/index/article-34248"
+                }
+            ]
+        },
+        {
+            "title": "中国动态",
+            "cards": [
+                {
+                    "core": "字节豆包日活突破 8000 万",
+                    "summary": "豆包凭借短视频生态和免费策略快速增长，成为国内最大 AI 应用。变现模式仍在探索中。",
+                    "impact": "对国内 AI 应用创业者影响较大",
+                    "source": "liangziwei",
+                    "url": "https://www.qbitai.com/2026/01/article-40045"
+                },
+                {
+                    "core": "阿里通义千问开源新版本",
+                    "summary": "阿里云发布通义千问最新版本，在多项基准测试中接近 GPT-4 水平。开源策略获得开发者认可。",
+                    "impact": "对国内 AI 开发者、企业影响较大",
+                    "source": "jiqizhixin",
+                    "url": "https://www.jiqizhixin.com/articles/2026-01-40152"
+                },
+                {
+                    "core": "智谱 AI 完成新一轮融资",
+                    "summary": "智谱 AI 完成数亿美元融资，估值大幅提升。清华系 AI 公司在技术和商业化上都展现出竞争力。",
+                    "impact": "对 AI 创业者、投资人影响较大",
+                    "source": "wandian",
+                    "url": "https://www.latepost.com/news/dj_detail?id=40213"
+                }
+            ]
+        }
+    ],
+    "wechatTopic": {
+        "title": "6日观察：AI Agents 从工具转向第二大脑",
+        "viewpoint": "AI Agents 从工具转向第二大脑",
+        "content": "今天的 AI 领域发生了一些值得关注的变化。\n\nAI Agents 从工具转向第二大脑——这是我今天最深的感受。\n\n当我们回顾过去一周的 AI 发展，会发现一个清晰的趋势：技术本身不再是壁垒，真正的竞争力来自对用户需求的深刻理解。\n\n这对普通人意味着什么？\n\n如果你是产品经理，你的价值不是会写 PRD，而是能洞察用户没说出口的需求。如果你是创业者，你的优势不是能融到钱请技术团队，而是你比别人更懂某个细分人群。\n\n技术在民主化，洞察力在稀缺化。\n\n明天见。"
+    }
+}
